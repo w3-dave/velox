@@ -1,0 +1,19 @@
+# Sub-repositories (each has its own git repo)
+velox-www/
+velox-nota/
+velox-contacts/
+velox-inventory/
+velox-projects/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude local cache
+.claude/
