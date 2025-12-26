@@ -1,5 +1,6 @@
 # Sub-repositories (each has its own git repo)
 velox-www/
+velox-go/
 velox-nota/
 velox-contacts/
 velox-inventory/
